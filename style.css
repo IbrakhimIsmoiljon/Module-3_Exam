@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin-left: 20%;
+}
+
+.row .col-3 {
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.row .col-3 h4 {
+  margin-left: 30px;
+  margin-top: 60px;
+}
+
+.first_p {
+  display: none;
+}
+
+.second_p {
+  display: none;
+}
+
+.third_p {
+  display: none;
+}
+
+.fourth_p {
+  display: none;
+}
+
+.fifth_p {
+  display: none;
+}
+
+.sixth_p {
+  display: none;
+}/*# sourceMappingURL=style.css.map */
